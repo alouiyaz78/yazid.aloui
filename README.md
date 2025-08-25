@@ -1,28 +1,31 @@
-# yazid.aloui
- data_scientist Portfolio
- # Yazid Aloui – Data Analyst &  Data Scientist
+# Yazid Aloui – Data Analyst & Aspiring Data Scientist
 
 📍 Ottawa, Ontario  
-📧 alouiyaz78@gmail.com |  
-[LinkedIn](https://www.linkedin.com/in/yazidaloui/) | [GitHub Portfolio](https://github.com/YazidAloui)  
+📧 alouiyaz78@gmail.com | 📞 514-242-7895  
+[LinkedIn](https://www.linkedin.com/in/yazidaloui/) | [GitHub Portfolio](https://github.com/alouiyaz78)
 
 ---
 
 ## About Me
-Bilingual Data Analyst and aspiring Data Scientist with strong foundations in **mathematics, machine learning, neural networks, and statistical analysis**. Experienced in **SQL, Python, NoSQL (MongoDB), Power BI, and data visualization tools**, with a proven record of managing, cleaning, and analyzing complex datasets. Passionate about applying data-driven insights to real-world problems and building innovative solutions.
+Bilingual Data Analyst and aspiring Data Scientist with strong foundations in **mathematics, machine learning, neural networks, and statistical analysis**. Experienced in **SQL, Python, NoSQL (MongoDB), Power BI, and data visualization tools**, with a proven record of managing, cleaning, and analyzing complex datasets. Passionate about applying **data-driven insights** to real-world problems and building innovative solutions.
 
-Currently enhancing my skills through academic projects at **Collège La Cité** and professional online training in **Machine Learning and AI (Formation ML-Pro)**. Experienced in full project lifecycles from data collection to model deployment.
+Currently advancing my skills through **academic projects at Collège La Cité** (January 2025 – Ongoing) and professional online training in **Machine Learning and AI (Formation ML-Pro, UK)**. Experienced in full project lifecycles from **data collection to model deployment**.
 
 ---
 
 ## Skills
-
-- **Programming & Data Tools:** Python, SQL (advanced), MongoDB, Power BI, Tableau, Excel  
+- **Programming & Data Tools:** Python ( advanced), SQL (advanced), MongoDB, Power BI(advanced), Tableau, Excel(advanced),Java  
 - **Machine Learning & Statistics:** Classification, Regression, Neural Networks, Inferential Statistics  
-- **Web & Cloud:** Flask, HTML, CSS, JavaScript, AWS, Azure basics  
+- **Web & Cloud:** Flask, HTML(basic), CSS(basic), JavaScript(basic), AWS(basic), Azure basics(basic)  
 - **Data Handling & Automation:** APIs, Data Cleaning, Data Pipelines, Python automation, Power Automate  
 - **Version Control & Collaboration:** Git, GitHub  
 - **Languages:** French (Fluent), English (Intermediate, actively improving)  
+
+---
+
+## Education
+- **Applied Data Science** – Collège La Cité, Ottawa, ON | Jan 2025 – Ongoing  
+- **Bachelor’s Degree in Mathematics** – Faculty of Sciences, Bizerte | WES Equivalence: Bachelor’s Degree (4 years)  
 
 ---
 
@@ -30,78 +33,65 @@ Currently enhancing my skills through academic projects at **Collège La Cité**
 
 ### Data Analyst – EoCube (Remote, Part-Time)  
 **Tunis, Tunisia | August 2023 – November 2023**  
-- Participated in **forest, pastoral, and olive inventory of Tunisia** with FAO and the General Directorate of Forests.  
-- **Managed and cleaned large datasets** collected from field teams using **Open Foris**.  
-- Supervised data submissions from 24 agents, ensuring **accurate, real-time database updates**.  
+- Participated in **forest, pastoral, and olive inventory** with FAO and the General Directorate of Forests.  
+- Managed and cleaned **large datasets** collected from field teams using **Open Foris**.  
+- Supervised **data submissions from 24 field agents**, ensuring accurate, real-time updates.  
 - Collaborated with experts to **validate data quality** and resolve inconsistencies.  
 - Streamlined workflows with **SQL and Excel** for validation, analysis, and reporting.  
 
 ### Loan Director – Association for the Development of Menzel Jemil  
 **Tunisia | October 2009 – April 2024**  
-- Led development and automation of financial tracking systems using **Python-based tools**, improving workflow reliability.  
-- Managed a portfolio of 5,000+ clients and conducted **quantitative analyses** to identify trends and performance metrics.  
+- Led development and automation of **financial tracking systems** using Python.  
+- Managed a portfolio of **5,000+ clients** and conducted **quantitative analyses** for key metrics.  
 - Created **IMF_PLUS**, a data analysis tool, boosting loan recovery rates by 3%.  
-- Implemented management strategies to optimize resources with a 90% campaign success rate.  
+- Implemented management strategies achieving a **90% success rate** in recovery campaigns.  
 
 ---
 
-## Academic Projects at Collège La Cité
+## Academic Projects 
 
-### 1. **SOS Office – Microfinance Management System**  
+### 1. [SOS Office – Microfinance Management System](https://github.com/alouiyaz78/SOS)  
 Python, SQLite, Tkinter, Pandas, ReportLab, docx2pdf  
-- Developed a **desktop application for managing microfinance client data**, including **KPI dashboards, PDF and DOCX reporting**, and data visualization pipelines.  
-- Implemented **data entry automation**, report generation, and dynamic dashboards for efficient decision-making.  
-- Technologies used: `Python`, `Tkinter`, `Pandas`, `SQLite`, `ReportLab`, `docx2pdf`, `ttkbootstrap`.  
+- Desktop application for **microfinance client data management**, KPI dashboards, and automated reporting.  
+- Automated **data entry, PDF/DOCX reporting**, and dynamic dashboards.  
 
-### 2. **Project Chatbot – London Hotel**  
+### 2. [London Hotel Chatbot](https://github.com/alouiyaz78/Chatbot)  
 Python, Flask, OpenAI, LangChain, BeautifulSoup, HTML/CSS/JS  
-- Created a **custom AI chatbot** able to respond to questions from hotel PDFs or web content.  
-- Implemented **RAG (Retrieval-Augmented Generation)** using **OpenAI embeddings**, FAISS vector search, and LangChain.  
-- Built a **frontend interface** with HTML, CSS, and JavaScript, integrated with **Flask backend** for real-time chat interactions.  
+- Created a **custom AI chatbot** capable of responding to questions from PDFs or web content.  
+- Implemented **RAG (Retrieval-Augmented Generation)** using OpenAI embeddings and FAISS vector search.  
+- Developed a **frontend interface** integrated with Flask backend for real-time chat.  
 
-### 3. **Ontario 511 API – Traffic Data Automation & Reporting**  
+### 3. [Ontario 511 API – Traffic Data Automation & Reporting](https://github.com/alouiyaz78/Project_Ontario_511)  
 Python, SQL Server  
-- Automated **data imports** from Ontario 511 API into SQL Server via Python scripts and stored procedures.  
-- Created jobs for **scheduled data extraction every 2 hours**, data cleaning, KPI calculations, and archiving obsolete events.  
+- Automated **data imports from Ontario 511 API** via Python scripts and stored procedures.  
+- Created **scheduled jobs** for extraction every 2 hours, KPI calculations, and archiving obsolete events.  
 - Designed **dynamic reports** and triggers for traffic monitoring, camera statuses, and construction events.  
 
 ---
 
-## Online Training & Certifications
-
-- **Machine Learning Pro (ML-Pro)** – Formation ML-Pro (UK)  
-  *Modules covered: Python, Data Science Frameworks, SQL, ML Models, Deep Learning, Cloud, MLOps, Generative AI*  
-- IBM Data Science Certification – Coursera, 2022  
-- Python Certification: From Fundamentals to Advanced – University of Côte d'Azur, 2023  
-- The Complete SQL Bootcamp – Coursera, 2023  
-- Power BI Training Certification – Future Skills Institute, 2022  
-- Machine Learning in Python with scikit-learn – Inria, 2025  
+## Online Training
+- **Machine Learning Pro (ML-Pro)** – Formation ML-Pro, UK,2025
+  *Modules: Python, Data Science Frameworks, SQL, ML Models, Deep Learning, Cloud, MLOps, Generative AI*  
+- **IBM Data Science Certification** – Coursera, 2022  
+- **Python Certification: From Fundamentals to Advanced** – University of Côte d’Azur, 2023  
+- **The Complete SQL Bootcamp** – Coursera, 2023  
+- **Power BI Training Certification** – Future Skills Institute, 2022  
+- **Machine Learning in Python with scikit-learn** – Inria, 2025  
 
 ---
 
 ## Volunteer Experience
-
-- **Project Manager**, Friends of the Remel Forest Association, Tunisia | Dec 2016 – Dec 2018  
-  *Led environmental initiatives and community education programs for 2,000+ residents.*  
-- **Council Member & Director of Communication**, Menzel Jemil, Tunisia | Jul 2018 – Dec 2023  
+- **Project Manager**, Friends of the Remel Forest Association | Dec 2016 – Dec 2018  
+  *Led environmental initiatives for 2,000+ residents.*  
+- **Council Member & Director of Communication**, Menzel Jemil | Jul 2018 – Dec 2023  
   *Directed civic campaigns and environmental awareness initiatives.*  
 - **Project “Mon Lac Mala Jaw”**, 2022-2023  
-  *Conducted field surveys and analyzed environmental awareness as part of the EU EcoPact program.*  
-
----
-
-## GitHub Portfolio Projects
-
-- **[SOS Office – Microfinance Dashboard](#)** – Desktop management system with Python, SQLite, Tkinter, and reporting automation  
-- **[London Hotel Chatbot](#)** – AI chatbot using OpenAI, LangChain, and Flask web interface  
-- **[Ontario 511 Traffic Data Automation](#)** – Python and SQL automation for data extraction, reporting, and KPI dashboards  
-- **[Additional Academic Projects](#)** – Machine learning models, neural networks, predictive analytics  
+  *Field surveys and environmental awareness analysis for EU EcoPact program.*  
 
 ---
 
 ## Contact
-
-I am actively seeking **Data Analyst / Data Scientist roles** where I can apply my **technical skills, machine learning knowledge, and data visualization expertise** to solve real-world problems.  
+Actively seeking **Data Analyst / Data Scientist roles** to apply technical skills, machine learning knowledge, and data visualization expertise.  
 📧 alouiyaz78@gmail.com | 📞 514-242-7895 | [LinkedIn](https://www.linkedin.com/in/yazidaloui/)  
 
 ---
