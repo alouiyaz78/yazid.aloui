@@ -1,6 +1,7 @@
-title "Yazid Aloui"
-logo : yaz_photo.jpg
-description : "Data scientist portfolio "
-show_download : true 
-theme : jekyll-theme-minimal
-lang : eng
+title: "Yazid Aloui"
+logo: img/yaz_photo.jpg
+description: "Data scientist portfolio"
+show_download: true
+theme: jekyll-theme-minimal
+lang: eng
+
