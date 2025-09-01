@@ -80,7 +80,7 @@ Automated the data collection, cleaning, storage, and visualization pipeline.
 - **Impact & Skills Developed:** Fully automated workflow, gained expertise in Python, ETL processes, Power Automate, MongoDB, and dashboard visualization.
 
 **Dashboard Preview:**  
-
+![Dashboard Preview](img/dashboard_preview.png) 
 
   
 
