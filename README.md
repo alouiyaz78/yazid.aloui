@@ -65,7 +65,24 @@ Python, Flask, OpenAI, LangChain, BeautifulSoup, HTML/CSS/JS
 Python, SQL Server  
 - Automated **data imports from Ontario 511 API** via Python scripts and stored procedures.  
 - Created **scheduled jobs** for extraction every 2 hours, KPI calculations, and archiving obsolete events.  
-- Designed **dynamic reports** and triggers for traffic monitoring, camera statuses, and construction events.  
+- Designed **dynamic reports** and triggers for traffic monitoring, camera statuses, and construction events.
+### 4. Ontario Francophone Newcomers Survey – Socio-Economic Analysis
+Python, MongoDB, Power Automate, MongoDB Charts
+
+Conducted a survey among new Francophone arrivals in Ontario to understand their socio-economic situation, integration challenges, and needs.  
+Automated the data collection, cleaning, storage, and visualization pipeline.
+
+**Key Contributions & Workflow:**
+- **Data Collection & Automation:** Microsoft Forms integrated with Excel via Power Automate; 250 responses collected in two weeks with automatic notifications for the team.
+- **Data Cleaning & Transformation:** Python ETL pipeline using pandas and numpy to remove duplicates, standardize location data, and convert to JSON for MongoDB.
+- **Database & Storage:** Data inserted into MongoDB Atlas using pymongo for efficient storage and querying.
+- **Visualization & Dashboard:** Created interactive charts (donut, bar, grouped bar) with MongoDB Charts; provided insights on employment constraints and socio-economic integration.
+- **Impact & Skills Developed:** Fully automated workflow, gained expertise in Python, ETL processes, Power Automate, MongoDB, and dashboard visualization.
+
+**Dashboard Preview:**  
+
+
+  
 
 ---
 
