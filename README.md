@@ -66,7 +66,7 @@ Python, SQL Server
 - Automated **data imports from Ontario 511 API** via Python scripts and stored procedures.  
 - Created **scheduled jobs** for extraction every 2 hours, KPI calculations, and archiving obsolete events.  
 - Designed **dynamic reports** and triggers for traffic monitoring, camera statuses, and construction events.
-### 4. Ontario Francophone Newcomers Survey – Socio-Economic Analysis
+### 4. [Ontario Francophone Newcomers Survey – Socio-Economic Analysis] (https://github.com/alouiyaz78/projet_enquette_sociaux)
 Python, MongoDB, Power Automate, MongoDB Charts
 
 Conducted a survey among new Francophone arrivals in Ontario to understand their socio-economic situation, integration challenges, and needs.  
