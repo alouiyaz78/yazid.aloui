@@ -36,7 +36,7 @@ Bilingual Data Analyst (FR/EN) with a strong background in mathematics and hands
 
 ## Projects
 
-### 1. [Hadoop Mini Cluster + MapReduce KPI Dashboard](https://github.com/alouiyaz78/TON_REPO)
+### 1. [Hadoop Mini Cluster + MapReduce KPI Dashboard](https://github.com/alouiyaz78/Hadoop_mini_cluster)
 Docker | Hadoop | Spark | HDFS | Streaming MapReduce | Python | Streamlit | Plotly  
 Big Data processing pipeline with automated MapReduce jobs + interactive KPI dashboard.
 
