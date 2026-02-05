@@ -1,22 +1,22 @@
 # Yazid Aloui – Data Analyst & Aspiring Data Scientist
 
-📍 Ottawa, Ontario  
-📧 alouiyaz78@gmail.com | 📞 514-242-7895  
+ Ottawa, Ontario  
+ alouiyaz78@gmail.com |  514-242-7895  
 [LinkedIn](https://www.linkedin.com/in/yazidaloui/) | [GitHub Portfolio](https://github.com/alouiyaz78)
 
 ---
-
 ## About Me
-Bilingual Data Analyst and aspiring Data Scientist with strong foundations in **mathematics, machine learning, neural networks, and statistical analysis**. Experienced in **SQL, Python, NoSQL (MongoDB), Power BI, and data visualization tools**, with a proven record of managing, cleaning, and analyzing complex datasets. Passionate about applying **data-driven insights** to real-world problems and building innovative solutions.
+Bilingual **Data Analyst** and aspiring **Data Scientist / Data Engineer**, with strong foundations in **mathematics, machine learning, neural networks, and statistical analysis**. Skilled in building end-to-end solutions including **data ingestion, cleaning, transformation, and automated ETL pipelines** using **Python, SQL, Databricks, Hadoop, Spark, and Delta Lake**.
 
-Currently advancing my skills through **academic projects at Collège La Cité** (January 2025 – Ongoing) and professional online training in **Machine Learning and AI (Formation ML-Pro, UK)**. Experienced in full project lifecycles from **data collection to model deployment**.
+Experienced in working with structured and semi-structured data, designing scalable workflows, and delivering actionable insights through **Power BI, Tableau, and interactive dashboards**. Passionate about transforming raw data into reliable datasets and business-ready analytics.
 
+Currently advancing my expertise through **Applied Data Science academic projects at Collège La Cité** (January 2025 – Ongoing) and professional online training in **Machine Learning and AI (Formation ML-Pro, UK)**. Strong experience across the full project lifecycle, from **data collection and pipeline orchestration to modeling and reporting**.
 ---
-
 ## Skills
-- **Programming & Data Tools:** Python ( advanced), SQL (advanced), MongoDB, Power BI(advanced), Tableau, Excel(advanced),Java  
+- **Programming & Data Tools:** Python (advanced), SQL (advanced), MongoDB, Power BI (advanced), Tableau, Excel (advanced), Java  
+- **Data Engineering & Big Data:** Databricks, Delta Lake, Spark (PySpark), Hadoop (HDFS, Streaming MapReduce), ETL Pipelines  
 - **Machine Learning & Statistics:** Classification, Regression, Neural Networks, Inferential Statistics  
-- **Web & Cloud:** Flask, HTML(basic), CSS(basic), JavaScript(basic), AWS(basic), Azure basics(basic)  
+- **Web & Cloud:** Flask, HTML (basic), CSS (basic), JavaScript (basic), AWS (basic), Azure (basic)  
 - **Data Handling & Automation:** APIs, Data Cleaning, Data Pipelines, Python automation, Power Automate  
 - **Version Control & Collaboration:** Git, GitHub  
 - **Languages:** French (Fluent), English (Intermediate, actively improving)  
