@@ -79,6 +79,16 @@ Automated the data collection, cleaning, storage, and visualization pipeline.
 - **Database & Storage:** Data inserted into MongoDB Atlas using pymongo for efficient storage and querying.
 - **Visualization & Dashboard:** Created interactive charts (donut, bar, grouped bar) with MongoDB Charts; provided insights on employment constraints and socio-economic integration.
 - **Impact & Skills Developed:** Fully automated workflow, gained expertise in Python, ETL processes, Power Automate, MongoDB, and dashboard visualization.
+### 5. [NYC Taxi Data ETL Pipeline – Databricks & Delta Lake](https://github.com/alouiyaz78/Databricks_project_nyct)  
+Databricks, Delta Lake, PySpark, Spark SQL, GitHub, VS Code  
+
+- Built a scalable **ETL pipeline** for NYC Yellow Taxi trip datasets using **Databricks** and **Delta Lake**.  
+- Implemented a layered architecture: **Landing → Bronze → Silver → Gold → Export**.  
+- Developed historical backfill and incremental workflows with controlled execution using notebook gates (**continue_downstream**).  
+- Performed data cleansing, enrichment, and aggregation with **PySpark** and **Spark SQL**.  
+- Designed reusable helper functions for file validation, ingestion automation, and processing timestamping.  
+- Exported curated datasets ready for analytics and BI consumption.  
+
 
 **Dashboard Preview:**  
 ![Dashboard Preview](img/dashboard_preview.png) 
