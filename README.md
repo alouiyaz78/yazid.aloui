@@ -10,7 +10,6 @@ Bilingual **Data Analyst** and aspiring **Data Scientist / Data Engineer**, with
 
 Experienced in working with structured and semi-structured data, designing scalable workflows, and delivering actionable insights through **Power BI, Tableau, and interactive dashboards**. Passionate about transforming raw data into reliable datasets and business-ready analytics.
 
-Currently advancing my expertise through **Applied Data Science academic projects at Collège La Cité** (January 2025 – Ongoing) and professional online training in **Machine Learning and AI (Formation ML-Pro, UK)**. Strong experience across the full project lifecycle, from **data collection and pipeline orchestration to modeling and reporting**.
 ---
 ## Skills
 - **Programming & Data Tools:** Python (advanced), SQL (advanced), MongoDB, Power BI (advanced), Tableau, Excel (advanced), Java  
