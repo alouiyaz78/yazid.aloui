@@ -50,10 +50,23 @@ Currently advancing my skills through **academic projects at Collège La Cité**
 
 ## Academic Projects 
 
-### 1. [SOS Office – Microfinance Management System](https://github.com/alouiyaz78/SOS)  
-Python, SQLite, Tkinter, Pandas, ReportLab, docx2pdf  
-- Desktop application for **microfinance client data management**, KPI dashboards, and automated reporting.  
-- Automated **data entry, PDF/DOCX reporting**, and dynamic dashboards.  
+### 1. [Hadoop Mini Cluster + MapReduce KPI Dashboard](https://github.com/alouiyaz78/TON_REPO)  
+Docker, Hadoop 3.3.6, Spark 3.5.0, HDFS, Hadoop Streaming, Python, Streamlit, Plotly, Linux, Bash  
+
+- Built a complete **Hadoop & Spark mini-cluster** inside a Docker container for Big Data experimentation.  
+- Implemented multiple **Hadoop Streaming MapReduce jobs (Python mapper/reducer)** to generate business KPIs from sales datasets.  
+- Automated the full workflow with a **run.sh script**: upload data to HDFS → execute MapReduce jobs → export outputs → format deliverables.  
+- Developed an interactive **Streamlit dashboard** with Plotly to visualize business insights such as:  
+  - Net revenue by country and month  
+  - Top 10 products by revenue  
+  - Global return rate (quantity-based)  
+  - Revenue distribution by payment method  
+- Delivered a production-like workflow combining **Big Data processing + BI visualization**.
+
+  **Docker Image:** `docker pull alouiyaz/hadoop-groupe3:tagname`  
+  **Run Container:** `docker run -it alouiyaz/hadoop-groupe3:tagname`  
+  **Dashboard:** `http://localhost:8501`
+.  
 
 ### 2. [London Hotel Chatbot](https://github.com/alouiyaz78/Chatbot)  
 Python, Flask, OpenAI, LangChain, BeautifulSoup, HTML/CSS/JS  
