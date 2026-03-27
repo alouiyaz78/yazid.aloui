@@ -89,6 +89,19 @@ End-to-end survey data pipeline: collection → cleaning → storage → visuali
 
 ---
 
+## 📊 Dashboard Preview
+
+### Credit Risk Project
+![Dashboard](Dashboard_1_project_credit_score.png)
+![Dashboard](Dashboard_2_project_credit_score.png)
+![Dashboard](Dashboard_3_project_credit_score.png)
+![Dashboard](Dashboard_4_project_credit_score.png)
+
+---
+
+### Survey Project
+![Survey Dashboard](img/dashboard_preview.png)
+
 ## Certifications & Training
 IBM Data Science (2022) | ML-Pro (2025) | SQL Bootcamp | Power BI | Python Advanced
 
