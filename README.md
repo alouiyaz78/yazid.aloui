@@ -92,10 +92,10 @@ End-to-end survey data pipeline: collection → cleaning → storage → visuali
 ## 📊 Dashboard Preview
 
 ### Credit Risk Project
-![Dashboard 1](img/Dashboard_1_project_credit_score.png)
-![Dashboard 2](img/Dashboard_2_project_credit_score.png)
-![Dashboard 3](img/Dashboard_3_project_credit_score.png)
-![Dashboard 4](img/Dashboard_4_project_credit_score.png)
+![Dashboard 1](img/Dashborad_1_project_credit_score.png)
+![Dashboard 2](img/Dashborad_2_project_credit_score.png)
+![Dashboard 3](img/Dashborad_3_project_credit_score.png)
+![Dashboard 4](img/Dashborad_4_project_credit_score.png)
 
 ---
 
