@@ -49,7 +49,7 @@ End-to-end data platform built on Ontario's public 511 traffic API, from ingesti
 - LangChain chatbot agent combining Text-to-SQL (validated, read-only queries) with semantic search (pgvector + Ollama embeddings) over incident descriptions; users bring their own LLM provider and API key (Claude, OpenAI, or Gemini)
 - Fully containerized with Docker Compose; images published to Docker Hub
 
-🔗 Docker images: https://hub.docker.com/u/alouiyaz
+[Docker images](https://hub.docker.com/u/alouiyaz)
 
 ---
 
@@ -64,7 +64,7 @@ Team project (6 members, Agile Scrum via Jira) classifying brain MRI scans as he
 - Grad-CAM interpretability comparing attention maps between the baseline CNN and EfficientNet-B0, showing markedly more precise tumor localization with transfer learning
 - Deployed on Hugging Face Spaces with three modes: detailed single-image analysis, multi-slice batch comparison, and a transparency view of the model's own performance metrics
 
-🔗 Live demo: https://huggingface.co/spaces/alouiyaz/MRI_segmentation
+[Live demo](https://huggingface.co/spaces/alouiyaz/MRI_segmentation)
 
 ---
 
@@ -81,7 +81,7 @@ End-to-end credit risk scoring pipeline with a strong focus on data quality, rel
 - Data drift monitoring using Evidently
 - Interactive Streamlit dashboard for decision simulation
 
-🔗 Live app: https://zero-defect-credit-risk-pipeline-fxqrngtu5bmqpctnghwnqn.streamlit.app/
+[Live app](https://zero-defect-credit-risk-pipeline-fxqrngtu5bmqpctnghwnqn.streamlit.app/)
 
 ---
 
