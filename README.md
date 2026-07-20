@@ -53,7 +53,22 @@ End-to-end data platform built on Ontario's public 511 traffic API, from ingesti
 
 ---
 
-### 2. [Zero-Defect Credit Risk Pipeline](https://github.com/alouiyaz78/Zero-defect-credit-risk-pipeline)
+### 2. [Brain Tumor Detection — MRI Classification with Deep Learning](https://github.com/alouiyaz78/Brain_tumor_MRI_classification)
+Python | PyTorch | EfficientNet-B0 | Grad-CAM | Albumentations | Gradio | Hugging Face Spaces
+
+Team project (6 members, Agile Scrum via Jira) classifying brain MRI scans as healthy or tumor-affected, deployed as a public web app.
+
+- Iterated from a from-scratch CNN (94% accuracy) to transfer learning with EfficientNet-B0 (4.0M parameters, roughly 6x fewer than the baseline CNN), reaching 100% precision, 90.3% recall, and a 94.9% F1-score on 394 held-out test images
+- Addressed a 73%/27% class imbalance with a weighted loss function (6.27x penalty on minority-class errors) rather than accepting a misleadingly high naive accuracy
+- Test-Time Augmentation (5 augmented views averaged per prediction) and threshold tuning to improve recall without sacrificing precision
+- Grad-CAM interpretability comparing attention maps between the baseline CNN and EfficientNet-B0, showing markedly more precise tumor localization with transfer learning
+- Deployed on Hugging Face Spaces with three modes: detailed single-image analysis, multi-slice batch comparison, and a transparency view of the model's own performance metrics
+
+🔗 Live demo: https://huggingface.co/spaces/alouiyaz/MRI_segmentation
+
+---
+
+### 3. [Zero-Defect Credit Risk Pipeline](https://github.com/alouiyaz78/Zero-defect-credit-risk-pipeline)
 Python | XGBoost | Pandera | YAML | SHAP | Fairlearn | Evidently | Streamlit
 
 End-to-end credit risk scoring pipeline with a strong focus on data quality, reliability, and business impact.
@@ -70,28 +85,28 @@ End-to-end credit risk scoring pipeline with a strong focus on data quality, rel
 
 ---
 
-### 3. [Hadoop Mini Cluster + MapReduce KPI Dashboard](https://github.com/alouiyaz78/Hadoop_mini_cluster)
+### 4. [Hadoop Mini Cluster + MapReduce KPI Dashboard](https://github.com/alouiyaz78/Hadoop_mini_cluster)
 Docker | Hadoop | Spark | HDFS | Streaming MapReduce | Python | Streamlit | Plotly
 
 Big Data processing pipeline with automated MapReduce jobs and an interactive KPI dashboard.
 
 ---
 
-### 4. [NYC Taxi Data ETL Pipeline – Databricks & Delta Lake](https://github.com/alouiyaz78/Databricks_project_nyct)
+### 5. [NYC Taxi Data ETL Pipeline – Databricks & Delta Lake](https://github.com/alouiyaz78/Databricks_project_nyct)
 Databricks | Delta Lake | PySpark | Spark SQL | GitHub | VS Code
 
 End-to-end ETL pipeline using Medallion architecture (Landing → Bronze → Silver → Gold → Export) with incremental and historical processing.
 
 ---
 
-### 5. [London Hotel Chatbot](https://github.com/alouiyaz78/Chatbot)
+### 6. [London Hotel Chatbot](https://github.com/alouiyaz78/Chatbot)
 Python | Flask | OpenAI | LangChain | FAISS | Web Scraping
 
 AI chatbot using Retrieval-Augmented Generation (RAG) to answer questions from documents and web content.
 
 ---
 
-### 6. [Ontario Francophone Newcomers Survey](https://github.com/alouiyaz78/projet_enquette_sociaux)
+### 7. [Ontario Francophone Newcomers Survey](https://github.com/alouiyaz78/projet_enquette_sociaux)
 Python | MongoDB Atlas | Power Automate | Dashboards
 
 End-to-end survey data pipeline: collection → cleaning → storage → visualization.
