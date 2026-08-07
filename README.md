@@ -12,7 +12,7 @@ Bilingual Data Analyst (FR/EN) with a strong background in mathematics and hands
 ---
 
 ## Skills
-- **Programming & Data Tools:** Python (advanced), SQL (advanced), MongoDB, Power BI (advanced), Tableau, Excel (advanced), Java
+- **Programming & Data Tools:** Python (advanced), SQL (advanced), MongoDB, Power BI (data modeling, DAX, hands-on since 2020), Tableau, Excel (advanced), Java
 - **Data Engineering & Orchestration:** dbt, Apache Airflow, Docker & Docker Compose, Databricks, Delta Lake, Spark (PySpark), Hadoop (HDFS, Streaming MapReduce), ETL Pipelines, medallion architecture (bronze/silver/gold)
 - **AI & LLM Applications:** LangChain, Retrieval-Augmented Generation (RAG), pgvector, agentic tool-calling (Text-to-SQL), Ollama, OpenAI/Anthropic/Google APIs
 - **Machine Learning & Statistics:** Classification, Regression, Neural Networks, Inferential Statistics
@@ -20,7 +20,7 @@ Bilingual Data Analyst (FR/EN) with a strong background in mathematics and hands
 - **Web & Cloud:** Flask, FastAPI, Gradio, HTML (basic), CSS (basic), JavaScript (basic), AWS (basic), Azure (basic)
 - **Data Handling & Automation:** APIs, Data Cleaning, Data Pipelines, Python automation, Power Automate
 - **Version Control & Collaboration:** Git, GitHub
-- **Languages:** French (Fluent), English (Intermediate, actively improving)
+- **Languages:** French (Fluent), English (Professional)
 
 ---
 
@@ -31,8 +31,8 @@ Bilingual Data Analyst (FR/EN) with a strong background in mathematics and hands
 ---
 
 ## Experience
-- **Data Analyst – EoCube (2023):** Data cleaning, validation, reporting (FAO project)
-- **Financial Analyst / Loan Portfolio Manager – Association for the Development of Menzel Jemil (2009–2024):** Financial reporting, KPI monitoring, portfolio analytics, process automation (Python)
+- **Institution Director & Data Reporting – Association for the Development of Menzel Jemil (2011–2024):** Financial reporting, KPI monitoring (Power BI, Excel), portfolio analytics, regulatory reporting, process automation (Python)
+- **Data Analyst – EoCube (2023, 4-month contract):** Data cleaning, validation, automated progress reporting (National Forest Inventory project for the FAO)
 
 ---
 
@@ -53,7 +53,23 @@ End-to-end data platform built on Ontario's public 511 traffic API, from ingesti
 
 ---
 
-### 2. [Brain Tumor Detection — MRI Classification with Deep Learning](https://github.com/alouiyaz78/Brain_tumor_MRI_classification)
+### 2. [AI Quiz Generator](https://github.com/alouiyaz78/Robot_questionnaire)
+Python | LLM APIs (OpenAI, Claude, Gemini) | Streamlit | Gradio | Hugging Face Spaces
+
+Interactive quiz generation system built from course documents, with both a CLI and a Streamlit UI, deployed live on Hugging Face Spaces.
+
+- Generates quizzes automatically from uploaded documents (PDF, TXT, DOCX, PY, IPYNB), with chunk-based processing for large files
+- Prompt-engineered difficulty levels (facile, moyen, difficile) targeting basic understanding, applied reasoning, and comparison/interpretation
+- Question quality controls: autonomous questions only (no missing context), duplicate filtering via similarity checks, comparison-based questions, no open-ended questions
+- Weighted scoring system for multi-select questions (partial credit, bounded between 0 and max points, no penalty for missed correct answers)
+- Secure in-UI API key input, real-time interactive scoring, and export to Markdown, DOCX, and JSON
+- Deployed to production via Gradio on Hugging Face Spaces
+
+[Live demo](https://huggingface.co/spaces/alouiyaz78/robot_questionnaire)
+
+---
+
+### 3. [Brain Tumor Detection — MRI Classification with Deep Learning](https://github.com/alouiyaz78/Brain_tumor_MRI_classification)
 Python | PyTorch | EfficientNet-B0 | Grad-CAM | Albumentations | Gradio | Hugging Face Spaces
 
 Team project (6 members, Agile Scrum via Jira) classifying brain MRI scans as healthy or tumor-affected, deployed as a public web app.
@@ -68,7 +84,7 @@ Team project (6 members, Agile Scrum via Jira) classifying brain MRI scans as he
 
 ---
 
-### 3. [Zero-Defect Credit Risk Pipeline](https://github.com/alouiyaz78/Zero-defect-credit-risk-pipeline)
+### 4. [Zero-Defect Credit Risk Pipeline](https://github.com/alouiyaz78/Zero-defect-credit-risk-pipeline)
 Python | XGBoost | Pandera | YAML | SHAP | Fairlearn | Evidently | Streamlit
 
 End-to-end credit risk scoring pipeline with a strong focus on data quality, reliability, and business impact.
@@ -85,28 +101,28 @@ End-to-end credit risk scoring pipeline with a strong focus on data quality, rel
 
 ---
 
-### 4. [Hadoop Mini Cluster + MapReduce KPI Dashboard](https://github.com/alouiyaz78/Hadoop_mini_cluster)
+### 5. [Hadoop Mini Cluster + MapReduce KPI Dashboard](https://github.com/alouiyaz78/Hadoop_mini_cluster)
 Docker | Hadoop | Spark | HDFS | Streaming MapReduce | Python | Streamlit | Plotly
 
 Big Data processing pipeline with automated MapReduce jobs and an interactive KPI dashboard.
 
 ---
 
-### 5. [NYC Taxi Data ETL Pipeline – Databricks & Delta Lake](https://github.com/alouiyaz78/Databricks_project_nyct)
+### 6. [NYC Taxi Data ETL Pipeline – Databricks & Delta Lake](https://github.com/alouiyaz78/Databricks_project_nyct)
 Databricks | Delta Lake | PySpark | Spark SQL | GitHub | VS Code
 
 End-to-end ETL pipeline using Medallion architecture (Landing → Bronze → Silver → Gold → Export) with incremental and historical processing.
 
 ---
 
-### 6. [London Hotel Chatbot](https://github.com/alouiyaz78/Chatbot)
+### 7. [London Hotel Chatbot](https://github.com/alouiyaz78/Chatbot)
 Python | Flask | OpenAI | LangChain | FAISS | Web Scraping
 
 AI chatbot using Retrieval-Augmented Generation (RAG) to answer questions from documents and web content.
 
 ---
 
-### 7. [Ontario Francophone Newcomers Survey](https://github.com/alouiyaz78/projet_enquette_sociaux)
+### 8. [Ontario Francophone Newcomers Survey](https://github.com/alouiyaz78/projet_enquette_sociaux)
 Python | MongoDB Atlas | Power Automate | Dashboards
 
 End-to-end survey data pipeline: collection → cleaning → storage → visualization.
