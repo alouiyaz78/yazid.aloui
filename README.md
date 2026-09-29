@@ -127,6 +127,32 @@ Python | MongoDB Atlas | Power Automate | Dashboards
 
 End-to-end survey data pipeline: collection → cleaning → storage → visualization.
 
+### 9. [CarthageKitchen-AI](https://github.com/alouiyaz78/CarthageKitchen-AI)
+ Autonomous Multi-Agent Culinary and Nutrition Studio
+
+[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/alouiyaz/CarthageKitchen-AI)
+[![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.12-blue)](https://www.python.org/)
+[![CrewAI](https://img.shields.io/badge/Orchestration-CrewAI-red)](https://www.crewai.com/)
+[![Database](https://img.shields.io/badge/PostgreSQL-Neon%20(pgvector)-green)](https://neon.tech/)
+[![Gradio](https://img.shields.io/badge/UI-Gradio%205.x-orange)](https://gradio.app/)
+
+CarthageKitchen-AI is an end-to-end multi-agent AI system designed to preserve, adapt, and source authentic Tunisian culinary heritage across Canada. 
+
+Originally inspired by the NourishBot hands-on lab in the IBM AI Agents Specialization on Coursera, the application was re-engineered into an autonomous, production-grade agentic pipeline featuring multimodal vision parsing, domain-grounded RAG, deterministic nutrition computation, localized Canadian grocery mapping, and live SQL telemetry.
+
+---
+
+## Live Demo
+
+Test the live application on Hugging Face Spaces:  
+https://huggingface.co/spaces/alouiyaz/CarthageKitchen-AI
+
+---
+
+## System Architecture and Multi-Agent Workflow
+
+Rather than relying on a single generic LLM prompt, the platform orchestrates collaborative autonomous agents using CrewAI:
+
 ---
 
 ## Dashboard Preview
