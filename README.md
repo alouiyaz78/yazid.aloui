@@ -35,7 +35,16 @@ Bilingual Data Analyst (FR/EN) with a strong background in mathematics and hands
 
 ## Professional Experience
 
-- **Institution Director & Data Reporting – Association for the Development of Menzel Jemil (2011–2024):** Financial reporting, KPI monitoring (Power BI, Excel), portfolio analytics, regulatory reporting, process automation (Python).
+- **Executive Director & Data Reporting – Association for the Development of Menzel Jemil (2011–2024):** 
+  Financial reporting, KPI monitoring (Power BI, Excel), portfolio analytics, regulatory reporting, 
+  process automation (Python).
+
+  **Annual Board Report – Power BI Dashboard (2005–2021):** Built for the organization's annual 
+  board meetings, presenting portfolio performance, recovery rates, and financial activity through 
+  star-schema data modeling and DAX measures, segmented by sector, region, education level, and gender.
+
+  🔗 [View Interactive Dashboard (Power BI)](https://app.powerbi.com/links/KSbe3px7BI?ctid=b93e7a34-ce42-4e06-b127-447bf8f5c1bd&pbi_source=linkShare&bookmarkGuid=b3cf586c-c038-4007-bfb7-6b5a6b87a788)
+
 - **Data Analyst – EoCube (2023, 4-month contract):** Data cleaning, validation, automated progress reporting (National Forest Inventory project for the FAO).
 
 ---
