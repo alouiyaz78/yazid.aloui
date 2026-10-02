@@ -81,7 +81,7 @@ End-to-end data platform built on Ontario's public 511 traffic API, from ingesti
 
 ---
 
-### 3. [AI Quiz Generator](https://github.com/alouiyaz78/Robot_questionnaire)
+### 3. [AI Quiz Generator]
 **Tech Stack:** Python | LLM APIs (OpenAI, Claude, Gemini) | Streamlit | Gradio | Hugging Face Spaces
 
 Interactive quiz generation system built from course documents, with both a CLI and a Streamlit UI, deployed live on Hugging Face Spaces.
